@@ -9,8 +9,8 @@ Este proyecto muestra de forma visual y práctica cómo funciona la verificació
 
 - Interfaz gráfica moderna basada en **PyQt6**
 - Simulación de:
-  - ✅ Verificación legítima de firmas RSA-2048
-  - ⚡ Proceso de explotación SIGHAX
+  - Verificación legítima de firmas RSA-2048
+  - Proceso de explotación SIGHAX
 - Implementación didáctica de:
   - RSA-2048
   - PKCS#1 v1.5
@@ -19,7 +19,7 @@ Este proyecto muestra de forma visual y práctica cómo funciona la verificació
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este proyecto está diseñado con fines **educativos y de investigación** para entender:
 
@@ -33,7 +33,7 @@ No interactúa con hardware real ni modifica dispositivos.
 
 ---
 
-## 🧠 Contexto Técnico
+## Contexto Técnico
 
 El exploit SIGHAX se basa en una implementación defectuosa de la verificación RSA en el bootROM ARM9, donde la validación de PKCS#1 v1.5 no era estricta, permitiendo la construcción de firmas especialmente manipuladas que eran aceptadas como válidas.
 
@@ -45,7 +45,7 @@ Este simulador reproduce:
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 
 - Python 3.10 o superior
 - PyQt6
@@ -58,13 +58,13 @@ pip install PyQt6
 
 ---
 
-## 🚀 Ejecución
+## Ejecución
 
 ```bash
 python main.py
 ```
 
-## 🛡 Aviso Legal
+## Aviso Legal
 
 Este proyecto es exclusivamente para:
 
