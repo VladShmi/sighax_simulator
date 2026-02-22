@@ -47,7 +47,7 @@ Este simulador reproduce:
 
 ## Requisitos
 
-- Python 3.10 o superior
+- Python
 - PyQt6
 
 Instalación:
