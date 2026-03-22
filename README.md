@@ -73,3 +73,6 @@ Este proyecto es exclusivamente para:
 - Comprensión de vulnerabilidades históricas
 
 No promueve el uso indebido de exploits ni la modificación de dispositivos comerciales.
+
+## Créditos
+Proyecto perteneciente al marco de la ASOC
